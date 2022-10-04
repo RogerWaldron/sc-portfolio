@@ -4,6 +4,7 @@ built with:
 
 - NextJS
 - React
+- React-Icons
 - Framer Motion
 - Styled Components
 
