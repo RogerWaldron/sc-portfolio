@@ -21,7 +21,8 @@ const Main = styled.main`
 const Title = styled.h1`
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 6rem;
+  font-weight: 700;
   text-align: center;
   text-decoration: none;
 
@@ -40,6 +41,7 @@ const Description = styled.p`
   text-align: center;
   line-height: 1.5;
   font-size: 1.5rem;
+  font-weight: 400;
 `;
 const CodeTag = styled.code`
   background: #fafafa;
